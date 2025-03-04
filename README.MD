@@ -1,4 +1,3 @@
 # JIHAD PERSIONAL WEBSITE
-This is website  the JIHAD PERSIONAL WEBSITE
-
+MY NAME IS JIHAD
 <h1>hello world</h1>
